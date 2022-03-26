@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=yasiru.ml&style=for-the-badge&url=https%3A%2F%2Fyasiru.ml)](https://yasiru.ml)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Programmer, Web Devoloper and Graphic designer!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
