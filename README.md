@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://yasiru.ml)
-[![website](./img/globe-dark.svg)](https://codestackr.com)
+[![website](./img/globe-dark.svg)](https://yasiru.ml)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
