@@ -1,7 +1,9 @@
-# Hi there, I'm Yasiru 👋 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+# Hi there, I'm Yasiru 👋 
+
 [![Website](https://img.shields.io/website?label=yasiru.ml&style=for-the-badge&url=https%3A%2F%2Fyasiru.ml)](https://yasiru.ml)
 
 ## I'm a Programmer, Web Devoloper and Graphic designer!!
