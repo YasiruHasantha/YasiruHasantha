@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/website?label=yasiru.ml&style=for-the-badge&url=https%3A%2F%2Fyasiru.ml)](https://yasiru.ml)
 
-## I'm a Programmer, Web Devoloper and Graphic designer!!
+## I'm a full stack developer!!
 
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about JavaScript and python GUI
