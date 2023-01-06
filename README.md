@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi there, I'm Yasiru 👋 
+# Hi there, I'm NotYasiru 👋 
 
 [![Website](https://img.shields.io/website?label=yasiru.ml&style=for-the-badge&url=https%3A%2F%2Fyasiru.ml)](https://yasiru.ml)
 
