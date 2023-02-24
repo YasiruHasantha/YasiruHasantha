@@ -13,8 +13,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://yasiru.ml)
-[![website](https://github.com/Mattlau04/Discord-SVG-badges/SVG/Discord_Staff.svg)](https://discord.com/channels/@me/898427344799281162)
+[![website](https://discord.com/channels/@me/898427344799281162)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
