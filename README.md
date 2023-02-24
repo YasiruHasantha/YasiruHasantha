@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![website](https://discord.com/channels/@me/898427344799281162)
+[Discord](https://discord.com/channels/@me/898427344799281162)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
