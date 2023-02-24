@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://yasiru.ml)
-[![website](./img/globe-dark.svg)](https://yasiru.ml)
+[![website](./img/discord.svg)](https://discord.com/channels/@me/898427344799281162)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
