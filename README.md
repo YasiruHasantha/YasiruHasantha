@@ -8,8 +8,8 @@
 
 ## I'm a full stack developer!!
 
-- 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Learn more about JavaScript and Python
+- 🌱 I’m currently learning react
+<!-- - 🥅 2022 Goals: Learn more about JavaScript and Python -->
 
 ### Connect with me:
 
