@@ -4,12 +4,6 @@
 
 # Hi there, I'm NotYasiru 👋 
 
-[![Website](https://img.shields.io/website?label=yasiru.ml&style=for-the-badge&url=https%3A%2F%2Fyasiru.ml)](https://yasiru.ml)
-
-## I'm a full stack developer!!
-
-- 🌱 I’m currently learning react
-<!-- - 🥅 2022 Goals: Learn more about JavaScript and Python -->
 
 ### Connect with me:
 
